@@ -11,5 +11,8 @@ public class Main {
 	private static void displayGreeting() {
 		// TODO Auto-generated method stub
 		System.out.println("This is app sales data");
+	
+	
+		System.out.println("test run");
 	}
 }
